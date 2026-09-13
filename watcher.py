@@ -6,7 +6,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 URL = "https://www.arbeitnow.com/api/job-board-api"
-STICHWOERTER = ["python", "developer", "entwickler", "junior", "software"]
+STICHWOERTER = ["python", "developer", "entwickler", "junior", "software","RAG","AI", "ML", "machine learning", "data", "fullstack", "backend", "frontend", "django", "flask", "fastapi", "pytorch", "tensorflow", "remote"]
 SEEN_DATEI = Path("seen.json")
 LOG_DATEI = Path("watcher.log")
 
