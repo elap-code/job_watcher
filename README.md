@@ -9,11 +9,9 @@ I built Job Watcher to automate my own job search. Instead of refreshing a job b
 
 ## Demo
 
-<!-- Replace demo.gif with your own recording (place it in an assets/ folder) -->
+
 ![Job Watcher demo](assets/demo.gif)
 
-<!-- Replace VIDEO_ID with your unlisted YouTube video ID -->
-[![Watch the full demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/VIDEO_ID)
 
 ## Features
 
